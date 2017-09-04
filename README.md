@@ -1,2 +1,3 @@
 # prj1
-Project1
+This is Demo Repository 
+GitHub
